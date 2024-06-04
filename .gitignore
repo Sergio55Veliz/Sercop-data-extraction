@@ -1,0 +1,16 @@
+# Ignorar archivos y carpetas específicas de PyCharm
+.idea/
+
+# Ignorar archivos de caché de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignorar archivos de ambiente virtual
+venv/
+.env/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
